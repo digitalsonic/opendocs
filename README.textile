@@ -4,5 +4,7 @@ References & Docs translated by DigitalSonic
 ** Spring Refernce 2.0
 ** Spring Refernce 2.5.4
 * Opendocs
-** Introduction to the Spring Framework
-** Using the Rake Build Language
+** Introduction to the Spring Framework (written by Rod Johnson)
+** Using the Rake Build Language (written by Martin Fowler)
+
+bq. Spring references are translated by Redsaga team lead by DigitalSonic.
