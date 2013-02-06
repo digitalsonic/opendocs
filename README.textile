@@ -1,10 +1,12 @@
 References & Docs translated by DigitalSonic 
 
 * References
-** Spring Refernce 2.0
-** Spring Refernce 2.5.4
+** Spring Framework 2.0 (lead by DigitalSonic)
+** Spring Framework 2.5.2 (lead by DigitalSonic)
+** Hibernate 3.2 (lead by Cao Xiaogang)
+** Seam 2.0 (lead by Yu Limin)
 * Opendocs
 ** Introduction to the Spring Framework (written by Rod Johnson)
 ** Using the Rake Build Language (written by Martin Fowler)
 
-bq. Spring references are translated by Redsaga team lead by DigitalSonic.
+bq. All references listed above are translated by Redsaga team. Two opendocs are translated by DigitalSonic.
